@@ -2,6 +2,8 @@
 
 An adaptation of a paper by [Tero Karras et al.](https://arxiv.org/abs/1710.10196), [source repository](https://github.com/tkarras/progressive_growing_of_gans).
 
+![Output](./images/output.png)
+
 
 ## Dataset
 
